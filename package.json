@@ -1,6 +1,6 @@
 {
   "name": "cronai-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A cli for https://cron-ai.vercel.app/",
   "main": "index.js",
   "type": "module",
