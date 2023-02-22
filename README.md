@@ -11,7 +11,7 @@ npm install -g cronai-cli
 ## Usage
 
 ```bash
-cronai-cli every day at 10:00
+cronai every day at 10:00
 ```
 
 # Check out https://cron-ai.vercel.app/
