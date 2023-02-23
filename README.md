@@ -15,3 +15,7 @@ cronai every day at 10:00
 ```
 
 # Check out https://cron-ai.vercel.app/
+
+## Connect with me
+
+Website: [https://doganaydin.org](https://doganaydin.org)
